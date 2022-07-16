@@ -7,23 +7,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Semana Brasileira de Informática Biomédica</title>
+    <title>XVIII Semana Brasileira de Informática Biomédica</title>
 
     <link rel="shortcut icon" type="image/png" href="../assets/img/icones/logo.png">
 
-    <script>document.getElementsByTagName("html")[0].className += " js";</script>
-    <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="../assets/css/MainStyle.css">
-</head>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+    
 <body>
+
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0"></script>
+
     <header class="header-area">
         <!-- Navbar Area -->
         <div class="clever-main-menu">
             <div class="classy-nav-container breakpoint-off">
 
                 <nav class="classy-navbar justify-content-between" id="cleverNav">
-                    <a class="nav-brand" href="../../index.html"></a>
+                    <a class="nav-brand" href="index.html"></a>
                     <div class="classy-navbar-toggler">
                         <span class="navbarToggler"><span></span><span></span><span></span></span>
                     </div>
@@ -39,27 +45,24 @@
                         <!-- Nav Start -->
                         <div class="classynav">
                             <ul>
-                                <li><a href="../../index.html">Apresentação</a></li>
-                                <li><a href="Cronograma2019.html">Cronograma</a></li>
-                                <li><a href="patrocinio2019.html">Patrocínio e apoio</a></li>
-                                <li><a href="GameJam2019.html">Live || Hack</a></li>
+                                <li><a href="https://semanaibm.infobiojr.com.br/">Apresentação</a></li>
+                                <li><a href="Cronograma_atual.html">Cronograma</a></li>
+                                <li><a href="patrocinio_atual.html">Patrocínio e apoio</a></li>
+                                 <li><a href="GameJam_atual.html">Live || Hack</a></li>
                                 <li><a>Eventos anteriores</a>
                                     <ul class="dropdown">
-                                        <li><a href="../semana_2018.html">2018</a></li>
-                                        <li><a href="../semana_2019.html">2019</a></li>
+                                        <li><a href="semana_2018.html">2018</a></li>
+                                        <li><a href="semana_2019.html">2019</a></li>
                                         <!--<li><a href="">2017</a></li>
                                         <li><a href="">2016</a></li>
                                         <li><a href="">2015</a></li>-->
                                     </ul>
                                 </li>
                             </ul>
-
-
-                            <!-- Register / Login -->
+                            
                             <div class="register-login-area">
-                                <a href="../EmBreve.html" class="btn active">Inscreva-se !</a>
+                                <a href="https://www.sympla.com.br/xix-semana-brasileira-de-informatica-biomedica__1365350" class="btn active">Inscreva-se !</a>
                             </div>
-
                         </div>
                         <!-- Nav End -->
                     </div>
@@ -69,32 +72,56 @@
     </header>
     <!-- ##### Header Area End ##### -->
 
-    <!-- ##### Hero Area Start ##### -->
-    <img src="../assets/img/bg-img/bg1.png" class="img-fluid">
+      <!-- ##### Hero Area Start ##### -->
+    <img src="../assets/edicoes_anteriores/2020/banner-fundo-claro.jpeg" class="img-fluid mx-auto d-block">
   
-    <section class="best-tutors-area mt-30">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <img src="../assets/img/bg-img/capa_Hack.png" alt="Hackathon da semana da ibm" class="img-fluid">
-                </div>
-                <div class="col-md-6">
-                    <h1 class="text-center cor-base" style="padding: 30px;">Junte-se ao Hackaton da Semana brasileira de Informática Biomédica !</h1>       <p> Venha fazer parte do Hackathon da Semana brasileira de Informática Biomédica feito em parceria com o L||P que irá ocorrer do dia 21 a 22 de setembro ! O Live || Hack tem por objetivo reunir pessoas das mais variadas áreas em uma maratona com o objetivo único de desenvolver um aplicativo ou jogo em menos de 34H !!</p>
-                    <p> Você terá apenas 34 horas de pura adrenalina, emoção e gambiarras sem limites para fazer um jogo ou aplicativo com um tema único que será dado na hora !
-                    Seu código será um grande sucesso ? Uma coleção de bugs que funciona por conta própria ? Algo entre os dois ? Nossa equipe de jurados irá decidir e o melhor ganhará!</p>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <button type="button" class="btn clever-btn btn-lg btn-block" style="margin-bottom: 30px;"><a href="assets/pdf/REGULAMENTO%20-%20Game%20Jam%20Semana%20da%20IBm.docx.pdf" style="color: white">Ver regulamento!</a></button>
-                        </div>
-                        <div class="col-md-6">
-                            <button type="button" class="btn clever-btn btn-lg btn-block" style="margin-bottom: 30px;"><a href="https://forms.gle/GaBBpQwit6cdRZXi6" style="color: white">Inscreva-se!</a></button>
-                        </div>
-                    </div>
-                </div>
-            </div>                 
-        </div>
-    </section>
+    <!-- Apresentacao breve de como foi a edicao 2018 -->
+    <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center"> 
+            <p>
+              <h4> Para mais informações sobre essa edição da Semana Brasileira da Informática Biomédica, entre nas nossas redes sociais!! </h4>
+            </p>
 
+            <!-- Botões para o instagram e facebook -->
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/SemanaBrasileiraDeInformaticaBiomedica/" target="_blank">
+                  <i class="fa fa-facebook verde"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.instagram.com/semanadaibm/" target="_blank">
+                  <i class="fa fa-instagram verde"></i>
+                </a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+
+        <br> 
+        <div class="row">
+            <div class="col-6">
+                <h6>Comissão organizadora:</h6>
+                Alessandra Santos, Ana Powarchuk Xavier, Carlos Eduardo Capelini Eli Lopes, Graciella dos Santos Favoreto, Laura Teresa Ricoboni, Mariana Aya Suzuki Uchida, Melissa Augusto Ribeiro, Moyses Levi Zalewski Pietsch dos Santos, Natielle Gonçalves de Sá, Thiago Figueiredo Marcos, Vinícius de Lima Gonçalves e Vitória Stavis de Araujo<br>
+            
+              </div>
+            <div class="col-6">
+                <h6>Agradecimentos:</h6>
+                Rocket Studio, VarStation, Sabin, InfoBioJr., Carefy
+
+                <br><br>
+                <h6> Curta nossa página no facebook! </h6>
+                <!-- Botão para curtir a página do facebook -->
+                <div class="fb-like" data-href="https://www.facebook.com/SemanaBrasileiraDeInformaticaBiomedica/" data-layout="button_count" data-action="like" data-show-faces="true"></div>
+            </div>
+        </div>
+        <br>
+        
+        
+
+    </div>
 
 
     <!-- ##### Footer Area Start ##### -->
@@ -104,10 +131,7 @@
             <div class="container">
                     <div class="row">
                             <div class="col-md-4 text-left">
-                              <p>   Comissão Organizadora da XIX Semana Brasileira de Informática Biomédica </p>  
-                              <p>   Faculdade de Medicina de Ribeirão Preto (FMRP)</p>
-                              <p>   Universidade de São Paulo – USP</p>
-                              <p>   Av. Bandeirantes, 3900 – Monte Alegre – CEP: 14049-900 </p>
+                              <p>   Comissão Organizadora da XVIII Semana Brasileira de Informática Biomédica </p> 
                             </div>
                             <div class="col-md-4 text-center">
                                 <ul class="list-inline social-buttons">
@@ -164,15 +188,15 @@
 
     <!-- ##### All Javascript Script ##### -->
     <!-- jQuery-2.2.4 js -->
-    <script src="assets/js/jquery/jquery-2.2.4.min.js"></script>
+    <script src="../assets/js/jquery/jquery-2.2.4.min.js"></script>
     <!-- Popper js -->
-    <script src="assets/js/bootstrap/popper.min.js"></script>
+    <script src="../assets/js/bootstrap/popper.min.js"></script>
     <!-- Bootstrap js -->
-    <script src="assets/js/bootstrap/bootstrap.min.js"></script>
+    <script src="../assets/js/bootstrap/bootstrap.min.js"></script>
     <!-- All Plugins js -->
-    <script src="assets/js/plugins/plugins.js"></script>
+    <script src="../assets/js/plugins/plugins.js"></script>
     <!-- Active js -->
-    <script src="assets/js/active.js"></script>
+    <script src="../assets/js/active.js"></script>
 </body>
 
 </html>

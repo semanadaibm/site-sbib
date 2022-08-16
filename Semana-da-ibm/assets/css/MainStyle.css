@@ -631,7 +631,7 @@ textarea:focus {
 }
 
 .clever-main-menu .classynav ul li a:hover, .clever-main-menu .classynav ul li a:focus {
-  color: rgba(0, 0, 0, 0.8);
+  color: #ED199B;
 }
 
 .clever-main-menu .search-area {
@@ -759,8 +759,6 @@ textarea:focus {
 
 
 .login-state .user-name .dropdown-menu {
-  -webkit-box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
-          box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
   border: none;
   padding: 15px 0;
 }

@@ -36,9 +36,10 @@
               <!-- Nav Start -->
               <div class="classynav">
                 <ul>
-                  <li><a href="Sobre.html">Sobre</a></li>
-                  <li><a href="Cronograma_atual.html">Cronograma</a></li>
-                  <li><a href="EmBreve.html">Apoios</a></li>
+                  <li><a href="Semana-da-ibm/Sobre.html">Sobre</a></li>
+                  <li><a href="Semana-da-ibm/Cronograma_atual.html">Cronograma</a></li>
+                  <li><a href="Semana-da-ibm/patrocinio_atual.php">Apoios</a></li>
+                  <li><a href="Semana-da-ibm/sedes.html">Sedes</a></li>
                   <!--<li><a href="Semana-da-ibm/GameJam_atual.html">Live || Hack</a></li>-->
                   <!--<li><a href="Semana-da-ibm/projeto.html">Meu projeto em 5 min</a></li>-->
                   <li><a>Eventos anteriores</a>

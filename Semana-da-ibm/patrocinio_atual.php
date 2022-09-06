@@ -91,13 +91,9 @@
               </div>
                     
               <div class="col-md-6"> <!-- Ocupa um terço da tela em largura-->
-                      
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
 
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" src="assets/img/patrocinadores/RocketStudio_Logo_azul_alta.png" alt="Rocket Studios" >
-
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" src="assets/img/patrocinadores/RocketStudio_Logo_azul_alta.png" alt="Rocket Studios" >
 
               </div>
                       
@@ -119,10 +115,8 @@
          
               <div class="col-md-6"> <!-- Ocupa um terço da tela em largura-->
                       
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" width="100%" height="350px" src="assets/img/patrocinadores/gogenetic.png" alt="Integração" >
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" width="100%" height="350px" src="assets/img/patrocinadores/gogenetic.png" alt="GoGenetic" >
 
               </div>
                     
@@ -133,6 +127,7 @@
             </div>
             <!-- Fim do bloco -->
 
+            <br>
             <!-- Bloco dos patrocinios Prata -->
             <h3 class="cor-base text-center" style="padding: 30px;">Patrocínio Prata</h3> 
             
@@ -144,10 +139,8 @@
 
               <div class="col-md-4"> <!-- Ocupa um terço da tela em largura-->
                       
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" width="100%" height="200px"  src="assets/img/patrocinadores/ilegra.svg" alt="Integração" >
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" width="100%" height="200px"  src="assets/img/patrocinadores/ilegra.svg" alt="Ilegra" >
                     
               </div>
 
@@ -158,96 +151,62 @@
             </div>
             <!-- Fim do bloco -->
 
+            <br>
             <!-- Bloco dos patrocinios Bronze -->
             <h3 class="cor-base text-center" style="padding: 30px;">Patrocínio Bronze</h3> 
         
             <div class="row">
           
+              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura--></div>
+
               <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> 
-                  <!-- Coloca margem no card pra não ficar tudo grudado -->
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" style="width: 160px;" src="assets/img/patrocinadores/infobio.png" alt="InfoBio Jr." >
               </div>
 
               <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" style="width: 160px;" src="assets/img/patrocinadores/infobio.png" alt="Integração" >
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" style="width: 250px;" src="assets/img/patrocinadores/intersection.png" alt="Intersection" >
               </div>
 
               <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" style="width: 250px;" src="assets/img/patrocinadores/intersection.png" alt="Integração" >
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" style="width:200px; padding-top: 30px;"  src="assets/img/patrocinadores/proradis.png" alt="Proradis" >
               </div>
 
               <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" style="width:200px; padding-top: 30px;"  src="assets/img/patrocinadores/proradis.png" alt="Integração" >
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" style="width: 140px; padding-top: 20px;" src="assets/img/patrocinadores/carefy.png" alt="Carefy" >
               </div>
 
-              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" style="width: 140px; padding-top: 20px;" src="assets/img/patrocinadores/carefy.png" alt="Integração" >
-                </div>
-              </div>
-
-              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> 
-                  <!-- Coloca margem no card pra não ficar tudo grudado -->
-                </div>
-              </div>
+              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura--></div>
             
             </div>
             <!-- Fim do bloco -->
 
+            <br>
             <!-- Bloco dos apoiadores -->
             <h3 class="cor-base text-center" style="padding: 30px;">Apoios</h3> 
         
             <div class="row">
           
-              <div class="col-md-3"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> 
-                  <!-- Coloca margem no card pra não ficar tudo grudado -->
-                </div>
-              </div>
+              <div class="col-md-3"> <!-- Ocupa um terço da tela em largura--></div>
 
-              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> 
-                  <!-- Coloca margem no card pra não ficar tudo grudado -->
-                </div>
+              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura--></div>
+
+              <div class="col-md-1"> <!-- Ocupa um terço da tela em largura-->
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" width="100%" height="200px" src="assets/img/patrocinadores/genera.png" alt="Genera" >
               </div>
 
               <div class="col-md-1"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" width="100%" height="200px" src="assets/img/patrocinadores/genera.png" alt="Integração" >
-                </div>
+                <!-- Imagem do patrocinio -->
+                <img class="bd-placeholder-img card-img-top" style="width: 100px; padding-top: 28px;"  src="assets/img/patrocinadores/alura.png" alt="Alura" >
               </div>
 
-              <div class="col-md-1"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> <!-- Coloca margem no card pra não ficar tudo grudado -->
-                  <!-- Imagem do patrocinio -->
-                  <img class="bd-placeholder-img card-img-top" style="width: 100px; padding-top: 28px;"  src="assets/img/patrocinadores/alura.png" alt="Integração" >
-                </div>
-              </div>
+              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura--></div>
 
-              <div class="col-md-2"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> 
-                  <!-- Coloca margem no card pra não ficar tudo grudado -->
-                </div>
-              </div>
-
-              <div class="col-md-3"> <!-- Ocupa um terço da tela em largura-->
-                <div class="mb-4 shadow-sm"> 
-                  <!-- Coloca margem no card pra não ficar tudo grudado -->
-                </div>
-              </div>
+              <div class="col-md-3"> <!-- Ocupa um terço da tela em largura--></div>
 
             </div>
             <!-- Fim do bloco -->
@@ -259,6 +218,7 @@
       </div>
 
     </section>
+    <br>
 
     <!-- ##### Footer Area Start ##### -->
     <footer class="footer-area">
